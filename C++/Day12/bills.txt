@@ -1,0 +1,5 @@
+1|gnggfh|159.98|108,Webcam HD,79.99,2,159.98
+Bill#1 Alice
+Laptop 50000
+Mouse 500
+Total=50500
