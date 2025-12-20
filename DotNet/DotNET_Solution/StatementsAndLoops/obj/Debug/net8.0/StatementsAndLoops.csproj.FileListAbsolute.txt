@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\bin\Debug\net8.0\StatementsAndLoops.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\bin\Debug\net8.0\StatementsAndLoops.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\bin\Debug\net8.0\StatementsAndLoops.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\bin\Debug\net8.0\StatementsAndLoops.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\bin\Debug\net8.0\StatementsAndLoops.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\refint\StatementsAndLoops.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\StatementsAndLoops.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\StatementsAndLoops\obj\Debug\net8.0\ref\StatementsAndLoops.dll

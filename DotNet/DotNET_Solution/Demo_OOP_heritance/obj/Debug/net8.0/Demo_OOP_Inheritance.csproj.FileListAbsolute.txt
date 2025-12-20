@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\bin\Debug\net8.0\Demo_OOP_Inheritance.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\bin\Debug\net8.0\Demo_OOP_Inheritance.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\bin\Debug\net8.0\Demo_OOP_Inheritance.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\bin\Debug\net8.0\Demo_OOP_Inheritance.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\bin\Debug\net8.0\Demo_OOP_Inheritance.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\refint\Demo_OOP_Inheritance.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\Demo_OOP_Inheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_heritance\obj\Debug\net8.0\ref\Demo_OOP_Inheritance.dll

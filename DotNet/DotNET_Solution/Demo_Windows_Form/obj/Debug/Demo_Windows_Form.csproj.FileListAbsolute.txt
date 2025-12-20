@@ -1,0 +1,10 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\bin\Debug\Demo_Windows_Form.exe.config
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\bin\Debug\Demo_Windows_Form.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\bin\Debug\Demo_Windows_Form.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.Form1.resources
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.Properties.Resources.resources
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.csproj.GenerateResource.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Windows_Form\obj\Debug\Demo_Windows_Form.pdb

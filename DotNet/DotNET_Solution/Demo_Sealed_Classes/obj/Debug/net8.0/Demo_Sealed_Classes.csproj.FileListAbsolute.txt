@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\bin\Debug\net8.0\Demo_Sealed_Classes.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\bin\Debug\net8.0\Demo_Sealed_Classes.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\bin\Debug\net8.0\Demo_Sealed_Classes.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\bin\Debug\net8.0\Demo_Sealed_Classes.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\bin\Debug\net8.0\Demo_Sealed_Classes.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\refint\Demo_Sealed_Classes.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\Demo_Sealed_Classes.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Sealed_Classes\obj\Debug\net8.0\ref\Demo_Sealed_Classes.dll

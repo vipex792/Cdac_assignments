@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_basics\obj\Debug\net8.0\Demo_OOP_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_basics\obj\Debug\net8.0\Demo_OOP_basics.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_basics\obj\Debug\net8.0\Demo_OOP_basics.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_basics\obj\Debug\net8.0\Demo_OOP_basics.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_OOP_basics\obj\Debug\net8.0\Demo_OOP_basics.sourcelink.json

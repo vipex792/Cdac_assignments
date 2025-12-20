@@ -1,0 +1,11 @@
+﻿
+namespace One
+{
+    internal class MyClass
+    {
+        public void GetMessage()
+        {
+            Console.WriteLine("Hello from MyClass namespace is one!");
+        }
+    }
+}

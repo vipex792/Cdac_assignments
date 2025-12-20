@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\bin\Debug\net8.0\Demo_Inheritance.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\bin\Debug\net8.0\Demo_Inheritance.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\bin\Debug\net8.0\Demo_Inheritance.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\bin\Debug\net8.0\Demo_Inheritance.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\bin\Debug\net8.0\Demo_Inheritance.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\refint\Demo_Inheritance.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\Demo_Inheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Inheritance\obj\Debug\net8.0\ref\Demo_Inheritance.dll

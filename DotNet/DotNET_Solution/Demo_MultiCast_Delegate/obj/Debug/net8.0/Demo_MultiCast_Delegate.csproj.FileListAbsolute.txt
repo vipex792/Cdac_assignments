@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\bin\Debug\net8.0\Demo_MultiCast_Delegate.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\bin\Debug\net8.0\Demo_MultiCast_Delegate.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\bin\Debug\net8.0\Demo_MultiCast_Delegate.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\bin\Debug\net8.0\Demo_MultiCast_Delegate.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\bin\Debug\net8.0\Demo_MultiCast_Delegate.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\refint\Demo_MultiCast_Delegate.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\Demo_MultiCast_Delegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_MultiCast_Delegate\obj\Debug\net8.0\ref\Demo_MultiCast_Delegate.dll

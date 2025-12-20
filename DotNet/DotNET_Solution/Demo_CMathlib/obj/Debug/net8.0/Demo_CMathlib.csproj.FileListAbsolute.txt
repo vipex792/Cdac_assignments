@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\bin\Debug\net8.0\Demo_CMathlib.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\bin\Debug\net8.0\Demo_CMathlib.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\bin\Debug\net8.0\Demo_CMathlib.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\refint\Demo_CMathlib.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\Demo_CMathlib.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CMathlib\obj\Debug\net8.0\ref\Demo_CMathlib.dll

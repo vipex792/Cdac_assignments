@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\bin\Debug\net8.0\Demo_File_IO.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\bin\Debug\net8.0\Demo_File_IO.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\bin\Debug\net8.0\Demo_File_IO.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\bin\Debug\net8.0\Demo_File_IO.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\bin\Debug\net8.0\Demo_File_IO.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\refint\Demo_File_IO.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\Demo_File_IO.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_File_IO\obj\Debug\net8.0\ref\Demo_File_IO.dll

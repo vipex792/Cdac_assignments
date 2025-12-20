@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\bin\Debug\net8.0\Demo_Generic_Collection.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\bin\Debug\net8.0\Demo_Generic_Collection.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\bin\Debug\net8.0\Demo_Generic_Collection.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\bin\Debug\net8.0\Demo_Generic_Collection.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\bin\Debug\net8.0\Demo_Generic_Collection.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\refint\Demo_Generic_Collection.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\Demo_Generic_Collection.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_Generic_Collection\obj\Debug\net8.0\ref\Demo_Generic_Collection.dll

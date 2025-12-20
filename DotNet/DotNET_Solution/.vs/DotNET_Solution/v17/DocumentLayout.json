@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{868341C1-7D2E-4A9B-9E23-027FFA671C41}|Demo_File_IO\\Demo_File_IO.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_file_io\\demo1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{868341C1-7D2E-4A9B-9E23-027FFA671C41}|Demo_File_IO\\Demo_File_IO.csproj|solutionrelative:demo_file_io\\demo1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868341C1-7D2E-4A9B-9E23-027FFA671C41}|Demo_File_IO\\Demo_File_IO.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_file_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868341C1-7D2E-4A9B-9E23-027FFA671C41}|Demo_File_IO\\Demo_File_IO.csproj|solutionrelative:demo_file_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D8BF3D-E430-46D5-98C1-392CC2F26DBC}|Demo_Reflection\\Demo_Reflection.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D8BF3D-E430-46D5-98C1-392CC2F26DBC}|Demo_Reflection\\Demo_Reflection.csproj|solutionrelative:demo_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC1557C-D9C2-4939-803F-CE4C2170C09F}|Demo_MyMath\\Demo_MyMath.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_mymath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC1557C-D9C2-4939-803F-CE4C2170C09F}|Demo_MyMath\\Demo_MyMath.csproj|solutionrelative:demo_mymath\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B83574F-391B-4632-972F-26A6EFAE9D91}|Demo_Serialization\\Demo_Serialization.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_serialization\\files\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B83574F-391B-4632-972F-26A6EFAE9D91}|Demo_Serialization\\Demo_Serialization.csproj|solutionrelative:demo_serialization\\files\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B83574F-391B-4632-972F-26A6EFAE9D91}|Demo_Serialization\\Demo_Serialization.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B83574F-391B-4632-972F-26A6EFAE9D91}|Demo_Serialization\\Demo_Serialization.csproj|solutionrelative:demo_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D8BF3D-E430-46D5-98C1-392CC2F26DBC}|Demo_Reflection\\Demo_Reflection.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_reflection\\program-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D8BF3D-E430-46D5-98C1-392CC2F26DBC}|Demo_Reflection\\Demo_Reflection.csproj|solutionrelative:demo_reflection\\program-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D8BF3D-E430-46D5-98C1-392CC2F26DBC}|Demo_Reflection\\Demo_Reflection.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_reflection\\program-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D8BF3D-E430-46D5-98C1-392CC2F26DBC}|Demo_Reflection\\Demo_Reflection.csproj|solutionrelative:demo_reflection\\program-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B781A322-2026-438E-99E7-5F36DA27BC7C}|Demo_Notepad\\Demo_Notepad.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_notepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B781A322-2026-438E-99E7-5F36DA27BC7C}|Demo_Notepad\\Demo_Notepad.csproj|solutionrelative:demo_notepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD41FB2E-C54D-4909-B632-AE3F08F141D6}|Demo_Delegates\\Demo_Delegates.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD41FB2E-C54D-4909-B632-AE3F08F141D6}|Demo_Delegates\\Demo_Delegates.csproj|solutionrelative:demo_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388BFED6-86F1-477A-A71B-DCF595CF79E0}|DotNetDay1\\DotNetDay1.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\dotnetday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388BFED6-86F1-477A-A71B-DCF595CF79E0}|DotNetDay1\\DotNetDay1.csproj|solutionrelative:dotnetday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo1.txt",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_File_IO\\demo1.txt",
+              "RelativeDocumentMoniker": "Demo_File_IO\\demo1.txt",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_File_IO\\demo1.txt",
+              "RelativeToolTip": "Demo_File_IO\\demo1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-20T12:49:13.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_File_IO\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_File_IO\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_File_IO\\Program.cs",
+              "RelativeToolTip": "Demo_File_IO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:36:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "data.xml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Serialization\\Files\\data.xml",
+              "RelativeDocumentMoniker": "Demo_Serialization\\Files\\data.xml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Serialization\\Files\\data.xml",
+              "RelativeToolTip": "Demo_Serialization\\Files\\data.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-20T12:34:47.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Serialization\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Serialization\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Serialization\\Program.cs",
+              "RelativeToolTip": "Demo_Serialization\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:28:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\DotNetDay1\\Program.cs",
+              "RelativeDocumentMoniker": "DotNetDay1\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\DotNetDay1\\Program.cs",
+              "RelativeToolTip": "DotNetDay1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:21:11.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Delegates\\Program.cs",
+              "RelativeToolTip": "Demo_Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:20:45.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Notepad\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Notepad\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Notepad\\Program.cs",
+              "RelativeToolTip": "Demo_Notepad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:18:38.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyMath\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_MyMath\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyMath\\Program.cs",
+              "RelativeToolTip": "Demo_MyMath\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:18:30.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program-v2.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Reflection\\Program-v2.cs",
+              "RelativeDocumentMoniker": "Demo_Reflection\\Program-v2.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Reflection\\Program-v2.cs",
+              "RelativeToolTip": "Demo_Reflection\\Program-v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:06:18.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program-v1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Reflection\\Program-v1.cs",
+              "RelativeDocumentMoniker": "Demo_Reflection\\Program-v1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Reflection\\Program-v1.cs",
+              "RelativeToolTip": "Demo_Reflection\\Program-v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:05:34.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Reflection\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_Reflection\\Program.cs",
+              "RelativeToolTip": "Demo_Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T12:05:02.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
