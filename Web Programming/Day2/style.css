@@ -1,0 +1,14 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(159, 241, 214);
+    
+}
+
+p{
+    color: brown;
+    font-size: larger;
+    font-weight: 500;
+}

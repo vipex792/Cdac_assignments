@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text Fields and Image</title>
+    <style>
+        /* Style for the container of input fields */
+        .input-container {
+            display: flex; /* Place inputs in one line */
+            gap: 20px; /* Space between inputs */
+            margin: 20px 0; /* Top and bottom margin for the container */
+        } 
+
+        /* Style for each input field */
+        .input-container input[type="text"] {
+            border: 2px solid blue; /* Solid blue border */
+            padding: 8px;
+            border-radius: 4px;
+            margin-left: 10px;  /* Left margin */
+            margin-right: 10px; /* Right margin */
+            flex: 1; /* Optional: make inputs stretch equally */
+        }
+
+        /* Style for the image */
+        .rounded-image {
+            display: block;
+            margin-top: 30px; /* Space from the text fields */
+            border: 3px solid red; /* Red border */
+            border-radius: 15px;   /* Rounded corners */
+            max-width: 100%;       /* Make responsive */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="input-container">
+    <input type="text" placeholder="First Name">
+    <input type="text" placeholder="Last Name">
+    <input type="text" placeholder="Email">
+</div>
+
+<img src="https://via.placeholder.com/300" alt="Sample Image" class="rounded-image">
+
+</body>
+</html>

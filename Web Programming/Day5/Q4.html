@@ -1,0 +1,87 @@
+<html>
+<head>
+
+</head>
+
+<body>
+
+
+    <input type="text" id="n">
+    <button type="button" onclick="add()"> add at end </button>
+    <button type="button" onclick="addAtStart()"> add at start</button>
+    <button type="button" onclick="deleteFromEnd()"> delete From End</button>
+    <button type="button" onclick="deleteFromStart()"> delete From Start</button>
+    <button type="button" onclick="displayOddNumbers()"> display Odd Numbers</button>
+    <button type="button" onclick="displayEvenNumbers()"> display Even Numbers</button>
+    <p id="p1"></p>
+
+</body>
+<script>
+    
+ const a = [];
+
+function add(){
+    let d = document.getElementById("n").value;
+    a.push(d); //A.PUSH(99)
+    console.log(a);
+    show();
+ }
+
+function addAtStart(){
+    let d = document.getElementById("n").value;
+    a.unshift(d);
+    console.log(a);
+    show();
+ }
+
+function deleteFromEnd(){
+    let d = document.getElementById("n").value;
+    a.pop(d);
+    console.log(a);
+    show();
+ }
+
+ function deleteFromStart(){
+    let d = document.getElementById("n").value;
+    a.shift(d);
+    console.log(a);
+    show();
+ }
+
+ function displayOddNumbers() {
+    let oddNumbers = []; // empty array that will store only odd numbers
+
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] % 2 !== 0) {   // check if odd
+            oddNumbers.push(a[i]);
+        }
+    }
+
+    console.log(oddNumbers);
+    document.getElementById("p1").innerHTML = oddNumbers.join(", ");
+}
+
+
+function displayEvenNumbers() {
+    let evenNumbers = []; // empty array that will store only odd numbers
+
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] % 2 == 0) {   // check if odd
+            evenNumbers.push(a[i]);
+        }
+    }
+
+    console.log(evenNumbers);
+    document.getElementById("p1").innerHTML = evenNumbers.join(", ");
+}
+
+
+
+
+
+function show(){
+document.getElementById("p1").innerHTML = a;
+}
+</script>
+
+</html>

@@ -1,0 +1,43 @@
+<html>
+<head>
+</head>
+<body>
+
+    <p id="p1">Employee Data</p>
+    <form>
+        Enter Name : <input type="text" id="ename"/>
+    </form>
+
+    <form>
+        Enter Salary : <input type="text" id="salary"/>
+    </form>
+  
+    <button type="button" onclick="showData()">Show!</button>
+
+<script>
+    // ----- CLASS SYNTAX -----
+    class Employee {
+        constructor(eName, salary) {
+            this.eName = eName;
+            this.salary = salary;
+        }
+
+        getDetails() {
+            return this.eName + " , " + this.salary;
+        }
+    }
+
+    // global variable to hold employee object
+    let emp;
+
+    function showData() {
+        const name = document.getElementById("ename").value;
+        const sal = document.getElementById("salary").value;
+
+        emp = new Employee(name, sal);   // create object from class
+        document.getElementById("p1").innerHTML = emp.getDetails();
+    }
+</script>
+
+</body>
+</html>
