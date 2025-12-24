@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\bin\Debug\net8.0\Demo_CSharp_Demos.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\bin\Debug\net8.0\Demo_CSharp_Demos.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\bin\Debug\net8.0\Demo_CSharp_Demos.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\bin\Debug\net8.0\Demo_CSharp_Demos.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\bin\Debug\net8.0\Demo_CSharp_Demos.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\refint\Demo_CSharp_Demos.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\Demo_CSharp_Demos.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CSharp_Demos\obj\Debug\net8.0\ref\Demo_CSharp_Demos.dll

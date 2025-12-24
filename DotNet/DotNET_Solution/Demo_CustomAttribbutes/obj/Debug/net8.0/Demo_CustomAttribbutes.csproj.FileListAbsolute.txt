@@ -1,0 +1,12 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\bin\Debug\net8.0\Demo_CustomAttribbutes.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\bin\Debug\net8.0\Demo_CustomAttribbutes.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\bin\Debug\net8.0\Demo_CustomAttribbutes.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\refint\Demo_CustomAttribbutes.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\Demo_CustomAttribbutes.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_CustomAttribbutes\obj\Debug\net8.0\ref\Demo_CustomAttribbutes.dll
