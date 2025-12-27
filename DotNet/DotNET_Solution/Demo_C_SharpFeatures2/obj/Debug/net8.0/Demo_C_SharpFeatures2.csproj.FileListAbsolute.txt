@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\bin\Debug\net8.0\Demo_C_SharpFeatures2.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\bin\Debug\net8.0\Demo_C_SharpFeatures2.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\bin\Debug\net8.0\Demo_C_SharpFeatures2.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\bin\Debug\net8.0\Demo_C_SharpFeatures2.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\bin\Debug\net8.0\Demo_C_SharpFeatures2.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\refint\Demo_C_SharpFeatures2.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\Demo_C_SharpFeatures2.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_C_SharpFeatures2\obj\Debug\net8.0\ref\Demo_C_SharpFeatures2.dll

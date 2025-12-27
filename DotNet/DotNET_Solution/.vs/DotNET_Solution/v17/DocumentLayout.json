@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharp_Demos.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_csharp_demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharp_Demos.csproj|solutionrelative:demo_csharp_demos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharpFeatures.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_csharp_demos\\demo_csharpfeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharpFeatures.csproj|solutionrelative:demo_csharp_demos\\demo_csharpfeatures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_myorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|solutionrelative:demo_myorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharp_Demos.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_csharp_demos\\file2\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharp_Demos.csproj|solutionrelative:demo_csharp_demos\\file2\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharp_Demos.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_csharp_demos\\file1\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFE32FFF-E1D6-4315-93CD-D11C4CB2FB6F}|Demo_CSharp_Demos\\Demo_CSharp_Demos.csproj|solutionrelative:demo_csharp_demos\\file1\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_myorm\\sqlquery\\createtablequeries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|solutionrelative:demo_myorm\\sqlquery\\createtablequeries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_myorm\\demo_myorm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|solutionrelative:demo_myorm\\demo_myorm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{071F198C-07E1-491B-AC26-F1306BBCE4B7}|Demo_CustomAttribbutes\\Demo_CustomAttribbutes.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_customattribbutes\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071F198C-07E1-491B-AC26-F1306BBCE4B7}|Demo_CustomAttribbutes\\Demo_CustomAttribbutes.csproj|solutionrelative:demo_customattribbutes\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99527F70-C4AA-463E-BD5D-60FCDB671469}|Demo_MyApplication\\Demo_MyApplication.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99527F70-C4AA-463E-BD5D-60FCDB671469}|Demo_MyApplication\\Demo_MyApplication.csproj|solutionrelative:demo_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_myorm\\sqlquery\\createtablequeries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{67B45C45-0F71-4051-BA80-DB14F2C4743D}|Demo_MyORM\\Demo_MyORM.csproj|solutionrelative:demo_myorm\\sqlquery\\createtablequeries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{5E302659-9226-424D-A9F1-5210C0476E08}|Demo_ConnectedAdoNet\\Demo_ConnectedAdoNet.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_connectedadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E302659-9226-424D-A9F1-5210C0476E08}|Demo_ConnectedAdoNet\\Demo_ConnectedAdoNet.csproj|solutionrelative:demo_connectedadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,98 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CMath.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\File2\\CMath.cs",
-              "RelativeDocumentMoniker": "Demo_CSharp_Demos\\File2\\CMath.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\File2\\CMath.cs",
-              "RelativeToolTip": "Demo_CSharp_Demos\\File2\\CMath.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:40:07.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CMath.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\File1\\CMath.cs",
-              "RelativeDocumentMoniker": "Demo_CSharp_Demos\\File1\\CMath.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\File1\\CMath.cs",
-              "RelativeToolTip": "Demo_CSharp_Demos\\File1\\CMath.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:38:48.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Demo_CSharpFeatures.csproj",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\Demo_CSharpFeatures.csproj",
-              "RelativeDocumentMoniker": "Demo_CSharp_Demos\\Demo_CSharpFeatures.csproj",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\Demo_CSharpFeatures.csproj",
-              "RelativeToolTip": "Demo_CSharp_Demos\\Demo_CSharpFeatures.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-24T12:37:22.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\Program.cs",
-              "RelativeDocumentMoniker": "Demo_CSharp_Demos\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CSharp_Demos\\Program.cs",
-              "RelativeToolTip": "Demo_CSharp_Demos\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:36:22.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateTableQueries.sql ",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyORM\\SQLQuery\\CreateTableQueries.sql",
-              "RelativeDocumentMoniker": "Demo_MyORM\\SQLQuery\\CreateTableQueries.sql",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyORM\\SQLQuery\\CreateTableQueries.sql",
-              "RelativeToolTip": "Demo_MyORM\\SQLQuery\\CreateTableQueries.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-12-24T12:21:06.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyApplication\\Program.cs",
-              "RelativeDocumentMoniker": "Demo_MyApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyApplication\\Program.cs",
-              "RelativeToolTip": "Demo_MyApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T12:18:07.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Demo_MyORM",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyORM\\Demo_MyORM.csproj",
-              "RelativeDocumentMoniker": "Demo_MyORM\\Demo_MyORM.csproj",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyORM\\Demo_MyORM.csproj",
-              "RelativeToolTip": "Demo_MyORM\\Demo_MyORM.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-24T12:03:31.802Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -152,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Table.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CustomAttribbutes\\Table.cs",
-              "RelativeDocumentMoniker": "Demo_CustomAttribbutes\\Table.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_CustomAttribbutes\\Table.cs",
-              "RelativeToolTip": "Demo_CustomAttribbutes\\Table.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:58:44.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyORM\\Program.cs",
-              "RelativeDocumentMoniker": "Demo_MyORM\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_MyORM\\Program.cs",
-              "RelativeToolTip": "Demo_MyORM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAACPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_ConnectedAdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_ConnectedAdoNet\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_ConnectedAdoNet\\Program.cs",
+              "RelativeToolTip": "Demo_ConnectedAdoNet\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T11:44:17.089Z",
+              "WhenOpened": "2025-12-27T13:49:34.847Z",
               "EditorCaption": ""
             }
           ]
