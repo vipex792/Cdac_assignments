@@ -1,5 +1,4 @@
 ﻿using Microsoft.Data.SqlClient;
-using System;
 
 namespace Demo_ConnectedAdoNet
 {
@@ -7,12 +6,12 @@ namespace Demo_ConnectedAdoNet
     {
         static void Main(string[] args)
         {
-            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=Dac098;Integrated Security=True;";
+            string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=Dac97;Integrated Security=True";
 
             #region SELECT QUERY 
             //SqlConnection con = new SqlConnection(connectionString);
 
-            //string selectQuery = "SELECT * FROM Product";
+            //string selectQuery = "SELECT * FROM Emp";
 
             //SqlCommand cmd = new SqlCommand();
             //cmd.CommandType = System.Data.CommandType.Text;
@@ -24,10 +23,10 @@ namespace Demo_ConnectedAdoNet
             //SqlDataReader reader = cmd.ExecuteReader();
             //while (reader.Read())
             //{
-            //    int id = Convert.ToInt32(reader["ProductId"]);
-            //    string? nm = reader["ProductName"].ToString();
-            //    int price = Convert.ToInt32( reader["ProductPrice"]);
-            //    Console.WriteLine($"Id:{id}, Name: {nm}, Price: {price}");
+            //    int id = Convert.ToInt32(reader["Id"]);
+            //    string? nm = reader["Name"].ToString();
+            //    string? address = reader["Address"].ToString();
+            //    Console.WriteLine($"Id:{id}, Name: {nm}, Address: {address}");
             //}
 
             //con.Close();
@@ -35,15 +34,12 @@ namespace Demo_ConnectedAdoNet
 
             #region INSERT QUERY
             SqlConnection con = new SqlConnection(connectionString);
-            Console.WriteLine("Enter ProductId:");
-            int id = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter ProductName ");
-            string name = Console.ReadLine();
-            Console.WriteLine("Enter ProductPrice:");
+            Console.WriteLine("Enter Name:");
+            string nm = Console.ReadLine();
+            Console.WriteLine("Enter Address");
+            string add = Console.ReadLine();
 
-            int price = Convert.ToInt32(Console.ReadLine());
-
-            string insertQuery = $"INSERT INTO Product(ProductId,ProductName,ProductPrice) VALUES('{id}','{name}', '{price}')";
+            string insertQuery = $"INSERT INTO Emp(NAME,ADDRESS) VALUES('{nm}','{add}')";
 
             SqlCommand cmd = new SqlCommand(insertQuery, con);
             //cmd.CommandType = System.Data.CommandType.Text;
@@ -68,14 +64,14 @@ namespace Demo_ConnectedAdoNet
             #region UPDATE QUERY
             //SqlConnection con = new SqlConnection(connectionString);
 
-            //Console.WriteLine("Enter Id for Product to be updated");
+            //Console.WriteLine("Enter Id for Emp to be updated");
             //int id = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine("Enter Name to be updated:");
             //string nm = Console.ReadLine();
-            //Console.WriteLine("Enter ProductName to be updated");
+            //Console.WriteLine("Enter Address to be updated");
             //string add = Console.ReadLine();
 
-            //string updateQuery = $"UPDATE Product SET ProductName='{nm}', ADDRESS='{add}' WHERE ID = {id}";
+            //string updateQuery = $"UPDATE Emp SET NAME='{nm}', ADDRESS='{add}' WHERE ID = {id}";
 
             //SqlCommand cmd = new SqlCommand(updateQuery, con);
 

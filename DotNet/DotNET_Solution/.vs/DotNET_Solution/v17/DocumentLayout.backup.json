@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E302659-9226-424D-A9F1-5210C0476E08}|Demo_ConnectedAdoNet\\Demo_ConnectedAdoNet.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_connectedadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E302659-9226-424D-A9F1-5210C0476E08}|Demo_ConnectedAdoNet\\Demo_ConnectedAdoNet.csproj|solutionrelative:demo_connectedadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_entityframewrok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|solutionrelative:demo_entityframewrok\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Migrations\\20251229142633_EmpClassMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo_EntityFramewrok\\Migrations\\20251229142633_EmpClassMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Migrations\\20251229142514_EmpClassMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo_EntityFramewrok\\Migrations\\20251229142514_EmpClassMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_entityframewrok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|solutionrelative:demo_entityframewrok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_entityframewrok\\demo_entityframewrok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|solutionrelative:demo_entityframewrok\\demo_entityframewrok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_entityframewrok\\dal\\dac97dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|solutionrelative:demo_entityframewrok\\dal\\dac97dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\dotnet_solution\\demo_entityframewrok\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870B2093-61A4-4FB6-BC01-A9BBDACA6A99}|Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj|solutionrelative:demo_entityframewrok\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +51,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_ConnectedAdoNet\\Program.cs",
-              "RelativeDocumentMoniker": "Demo_ConnectedAdoNet\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_ConnectedAdoNet\\Program.cs",
-              "RelativeToolTip": "Demo_ConnectedAdoNet\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\appsettings.json",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\appsettings.json",
+              "RelativeToolTip": "Demo_EntityFramewrok\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T13:56:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251229142633_EmpClassMigration.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Migrations\\20251229142633_EmpClassMigration.cs",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\Migrations\\20251229142633_EmpClassMigration.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Migrations\\20251229142633_EmpClassMigration.cs",
+              "RelativeToolTip": "Demo_EntityFramewrok\\Migrations\\20251229142633_EmpClassMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T13:49:34.847Z",
+              "WhenOpened": "2025-12-29T14:26:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251229142514_EmpClassMigration.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Migrations\\20251229142514_EmpClassMigration.cs",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\Migrations\\20251229142514_EmpClassMigration.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Migrations\\20251229142514_EmpClassMigration.cs",
+              "RelativeToolTip": "Demo_EntityFramewrok\\Migrations\\20251229142514_EmpClassMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:25:14.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Program.cs",
+              "RelativeToolTip": "Demo_EntityFramewrok\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:43:56.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dac97DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\DAL\\Dac97DbContext.cs",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\DAL\\Dac97DbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\DAL\\Dac97DbContext.cs",
+              "RelativeToolTip": "Demo_EntityFramewrok\\DAL\\Dac97DbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:51:11.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo_EntityFramewrok.csproj",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj",
+              "RelativeToolTip": "Demo_EntityFramewrok\\Demo_EntityFramewrok.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T13:49:29.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "Demo_EntityFramewrok\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\DotNET_Solution\\Demo_EntityFramewrok\\Models\\Emp.cs",
+              "RelativeToolTip": "Demo_EntityFramewrok\\Models\\Emp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:47:03.868Z",
               "EditorCaption": ""
             }
           ]
