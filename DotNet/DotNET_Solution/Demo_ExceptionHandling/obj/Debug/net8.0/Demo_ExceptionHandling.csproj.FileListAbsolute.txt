@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\bin\Debug\net8.0\Demo_ExceptionHandling.exe
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\bin\Debug\net8.0\Demo_ExceptionHandling.deps.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\bin\Debug\net8.0\Demo_ExceptionHandling.runtimeconfig.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\bin\Debug\net8.0\Demo_ExceptionHandling.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\bin\Debug\net8.0\Demo_ExceptionHandling.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.AssemblyInfo.cs
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.sourcelink.json
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\refint\Demo_ExceptionHandling.dll
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.pdb
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\Demo_ExceptionHandling.genruntimeconfig.cache
+C:\Users\IET\Desktop\Tushar-Tanishqa\DotNet_Data\DotNET_Solution\Demo_ExceptionHandling\obj\Debug\net8.0\ref\Demo_ExceptionHandling.dll
