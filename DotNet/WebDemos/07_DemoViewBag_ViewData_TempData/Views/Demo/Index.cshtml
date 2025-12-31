@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h3>Index : Demo</h3>
+<hr />
+@* Temp Data : PIN : @TempData["PIN"] *@
+<hr />
+<p style="color:forestgreen">@ViewBag.message</p>
+<ul style="color:orangered">
+    @{
+        Emp emp = ViewBag.empInfo;
+        <li>@emp.Id</li>
+        <li>@emp.Name</li>
+        <li>@emp.Address</li>
+    }
+</ul>
+@* <p>@ViewBag.number</p> *@
+
+<p>@ViewData["number"]</p>
+
+<ul style="color:rebeccapurple">
+    @{
+        Emp emp1 = ViewData["emp1"] as Emp;
+        <li>@emp1.Id</li>
+        <li>@emp1.Name</li>
+        <li>@emp1.Address</li>
+    }
+</ul>
+
+<h4 style="color:teal">@ViewData["message"]</h4>

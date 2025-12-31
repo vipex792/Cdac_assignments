@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10E62EEE-D795-415C-859E-B9682175C650}|praxMVC\\praxMVC.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\praxmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10E62EEE-D795-415C-859E-B9682175C650}|praxMVC\\praxMVC.csproj|solutionrelative:praxmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10E62EEE-D795-415C-859E-B9682175C650}|praxMVC\\praxMVC.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\praxmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E62EEE-D795-415C-859E-B9682175C650}|praxMVC\\praxMVC.csproj|solutionrelative:praxmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\views\\demo\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\views\\demo\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\views\\home\\getemps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\views\\home\\getemps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|c:\\users\\iet\\desktop\\tushar-tanishqa\\dotnet_data\\webdemos\\07_demoviewbag_viewdata_tempdata\\07_demoviewbag_viewdata_tempdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E8B62F1-C3EF-4A30-BD30-E17D51C6D580}|07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj|solutionrelative:07_demoviewbag_viewdata_tempdata\\07_demoviewbag_viewdata_tempdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +54,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\praxMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "praxMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\praxMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "praxMVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Views\\Demo\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T11:27:53.151Z",
+              "WhenOpened": "2025-12-31T12:35:59.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:17:06.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Program.cs",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Program.cs",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:14:35.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Views\\Demo\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T12:35:46.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\praxMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "praxMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\praxMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "praxMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T11:26:31.335Z",
+              "WhenOpened": "2025-12-31T12:16:59.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetEmps.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Views\\Home\\GetEmps.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T12:15:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\Views\\Home\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T12:15:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "07_DemoViewBag_ViewData_TempData",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj",
+              "RelativeDocumentMoniker": "07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\Tushar-Tanishqa\\DotNet_Data\\WebDemos\\07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj",
+              "RelativeToolTip": "07_DemoViewBag_ViewData_TempData\\07_DemoViewBag_ViewData_TempData.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-31T12:14:33.452Z",
               "EditorCaption": ""
             }
           ]

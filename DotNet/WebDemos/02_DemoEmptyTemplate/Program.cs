@@ -38,7 +38,7 @@ namespace _02_DemoEmptyTemplate
 
             app.Use(async (context, next) =>
             {
-                await context.Response.WriteAsync("kiulkjl ");
+                await context.Response.WriteAsync("hellooooooooo");
                 await context.Response.WriteAsync("\nHii");
                 next(context);
 
@@ -50,12 +50,12 @@ namespace _02_DemoEmptyTemplate
         {
                 await context.Response.WriteAsync("\nCaptain America");
                 next(context);
-                await context.Response.WriteAsync("\nManish");
+                await context.Response.WriteAsync("\HEHEHEHE");
         });
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("\nBye Manish Sorry manish forgive me please possible");
+                await context.Response.WriteAsync("\nBye Bye");
             });
 
             app.Run(); ///

@@ -1,0 +1,9 @@
+﻿namespace _07_DemoViewBag_ViewData_TempData.Models
+{
+    public class Customer
+    {
+        public int CId { get; set; }
+        public string CName { get; set; }
+        public int BillNo { get; set; }
+    }
+}
