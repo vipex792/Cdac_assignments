@@ -1,0 +1,19 @@
+﻿namespace _11_Demo_EF_Filters_Sessions_WebAPI.Data
+{
+    public class Log
+    {
+
+    }
+}
+--Logged At, 1/2/2026 7:15:01 PM - Calling :/ 
+--Logged At, 1/2/2026 7:15:02 PM - Called:  / 
+--Logged At, 1/2/2026 7:15:02 PM - Generating View: / 
+--Logged At, 1/2/2026 7:15:02 PM - Generated View: / 
+--Logged At, 1/2/2026 7:15:25 PM - Calling :/ 
+--Logged At, 1/2/2026 7:15:25 PM - Called:  / 
+--Logged At, 1/2/2026 7:15:25 PM - Generating View: / 
+--Logged At, 1/2/2026 7:15:25 PM - Generated View: / 
+--Logged At, 1/2/2026 7:17:46 PM - Calling :/ 
+--Logged At, 1/2/2026 7:17:50 PM - Called:  / 
+--Logged At, 1/2/2026 7:17:56 PM - Generating View: / 
+--Logged At, 1/2/2026 7:18:00 PM - Generated View: / 

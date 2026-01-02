@@ -1,0 +1,40 @@
+using _11_Demo_EF_Filters_Sessions_WebAPI.Models;
+using Microsoft.EntityFrameworkCore;
+
+namespace _11_Demo_EF_Filters_Sessions_WebAPI
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+
+            // Add services to the container.
+            builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<IETDbContext>(Options =>
+            {
+                Options.UseSqlServer("name=IETDb");
+            }); // Seeting Dependicies at Contructor level
+
+            var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Home/Error");
+            }
+            app.UseStaticFiles();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            app.Run();
+        }
+    }
+}
