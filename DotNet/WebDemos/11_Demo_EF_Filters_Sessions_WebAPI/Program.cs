@@ -1,4 +1,6 @@
 using _11_Demo_EF_Filters_Sessions_WebAPI.Models;
+using _11_Demo_EF_Filters_Sessions_WebAPI.Filters;
+
 using Microsoft.EntityFrameworkCore;
 
 namespace _11_Demo_EF_Filters_Sessions_WebAPI
@@ -17,6 +19,17 @@ namespace _11_Demo_EF_Filters_Sessions_WebAPI
                 Options.UseSqlServer("name=IETDb");
             }); // Seeting Dependicies at Contructor level
 
+            builder.Services.AddCors(corsoptions => {
+                corsoptions.AddPolicy("IET", (corspolicy) => {
+                    corspolicy.WithOrigins("*").WithMethods("*").WithHeaders("*");
+                });
+            });
+            builder.Services.AddExceptionHandler<IETExExceptionFilter>();
+
+            builder.Services.AddSession();
+
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -27,6 +40,12 @@ namespace _11_Demo_EF_Filters_Sessions_WebAPI
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseCors();
+
+            app.UseSession();
+
+            app.UseExceptionHandler("/Exception/Error");
 
             app.UseAuthorization();
 
